@@ -8,7 +8,7 @@ class YoutubeClient() {
 
     val queryParam = mapOf(
         "type" to "video",
-        "key" to "AIzaSyDuW47_2h0sCXZJmEWVREbTJgrGHbmOsXc",
+        "key" to "A",
         "part" to "snippet",
         "maxResults" to "10"
     )
